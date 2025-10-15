@@ -1,0 +1,21 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydub==0.25.1
+aiofiles==23.2.1
+python-dotenv==1.0.0
+httpx==0.26.0
+librosa==0.10.1
+scipy==1.11.4
+numpy==1.24.3
+soundfile==0.12.1
+scikit-learn==1.6.1
+
+# Demucs - SOTA audio separation model
+demucs==4.0.0
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# YouTube download
+yt-dlp>=2024.10.7
+
